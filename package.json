@@ -1,0 +1,12 @@
+{
+  "name": "drivedetox",
+  "productName": "DriveDetox",
+  "version": "1.0.0",
+  "description": "An open-source USB and drive cleaner to remove duplicate files.",
+  "main": "src/main/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "MIT"
+}
