@@ -7,6 +7,6 @@
   "scripts": {
     "start": "electron ."
   },
-  "author": "DhanushNehru",
+  "author": "",
   "license": "MIT"
 }
